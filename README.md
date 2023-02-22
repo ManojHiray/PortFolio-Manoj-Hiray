@@ -4,10 +4,15 @@ This portfolio represent the brief detail of my skills, projects and about me. P
 
 # Details contain:
 Objective
+
 About Me
+
 Skills
+
 Projects
+
 Contact
+
 Social media links for connect with me
 
 # To visit:
